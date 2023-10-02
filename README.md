@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iZusi
+- 👋 Hi, I’m Iyke Omozusi (@iZusi)
   
 - 👀 I’m interested in C++ & Python programming for Robotics & A.I.
 - 🌱 I’m currently learning Havard's CS50 Introduction to Python Programming & Introduction to Computer Science courses.

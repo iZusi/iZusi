@@ -6,15 +6,12 @@
 ## Projects and Tasks
 
 ### Completed Projects
-
 - [x] [Air Shooter](https://github.com/iZusi/air_shooter): My CS50 final project
 
 ### Accomplished Tasks
-
 - [x] Completed Harvard's CS50 Introduction to Programming with Python
 
 ### Current Learning Goals
-
 - [ ] Complete HarvardX: Introduction to Data Science with Python.
 - [ ] Learn key concepts, tools, and techniques in data analysis, visualization, and manipulation.
 - [ ] Explore machine learning as the next step to leverage data for intelligent decision-making.
@@ -23,15 +20,18 @@
 ## Learning Journeys
 
 ### Arduino Programming Journey
-
 - 🚀 Ongoing exploration of Arduino programming and electronics.
 
 ### CS50 Python Completion
-
 - ✅ Successfully completed Harvard's CS50 Introduction to Programming with Python.
 - 🌱 Continuing to apply Python skills in various projects and challenges.
 
+### Data Science and Machine Learning
+- 🌐 Currently diving into the world of data science to build a strong foundation.
+- 📚 Learning key concepts, tools, and techniques in data analysis, visualization, and manipulation.
+- 🤖 Exploring machine learning as the next step to leverage data for intelligent decision-making.
 
+## Contact
 - 📫 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/iomozusi)
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:iyke.zusi@gmail.com)
 

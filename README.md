@@ -13,8 +13,8 @@
 
 ### Current Learning Goals
 - [ ] Complete HarvardX: Introduction to Data Science with Python.
-- [ ] Learn key concepts, tools, and techniques in data analysis, visualization, and manipulation.
-- [ ] Explore machine learning as the next step to leverage data for intelligent decision-making.
+- [ ] Master fundamental skills in data analysis, visualization, and manipulation.
+- [ ] Dive into machine learning to harness data for smart decision-making.
 - [ ] Complete CS50's Introduction to Computer Science.
 
 ## Learning Journeys

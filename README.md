@@ -9,10 +9,10 @@
 - [x] [Air Shooter](https://github.com/iZusi/air_shooter): My CS50 final project
 
 ### Accomplished Tasks
-- [x] Completed Harvard's CS50 Introduction to Programming with Python
+- ✅ HarvardX: CS50's Introduction to Programming with Python
 
 ### Current Learning Goals
-- [ ] Complete HarvardX: Introduction to Data Science with Python.
+- [ ] Complete HarvardX CS109x: Introduction to Data Science with Python.
 - [ ] Master fundamental skills in data analysis, visualization, and manipulation.
 - [ ] Dive into machine learning to harness data for smart decision-making.
 - [ ] Complete CS50's Introduction to Computer Science.
@@ -23,8 +23,8 @@
 - 🚀 Ongoing exploration of Arduino programming and electronics.
 
 ### CS50 Python Completion
-- ✅ Successfully completed Harvard's CS50 Introduction to Programming with Python.
-- 🌱 Continuing to apply Python skills in various projects and challenges.
+- Successfully completed Harvard's CS50 Introduction to Programming with Python.
+- Continuing to apply Python skills in various projects and challenges.
 
 ### Data Science and Machine Learning
 - 🌐 Currently diving into the world of data science to build a strong foundation.

@@ -6,7 +6,7 @@
 ## Projects and Tasks
 
 ### Completed Projects
-- [x] [Air Shooter](https://github.com/iZusi/air_shooter): My CS50 final project
+- ✅ [Air Shooter](https://github.com/iZusi/air_shooter): My CS50 final project
 
 ### Accomplished Tasks
 - ✅ HarvardX: CS50's Introduction to Programming with Python

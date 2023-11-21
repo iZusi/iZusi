@@ -32,8 +32,8 @@
 - 🤖 Exploring machine learning as the next step to leverage data for intelligent decision-making.
 
 ## Contact
-- 📫 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/iomozusi)
-[![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:iyke.zusi@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/iomozusi)
+- [![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:iyke.zusi@gmail.com)
 
 <!---
 iZusi/iZusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

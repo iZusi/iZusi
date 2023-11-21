@@ -23,7 +23,7 @@
 - 🚀 Ongoing exploration of Arduino programming and electronics.
 
 ### CS50 Python Completion
-- Successfully completed Harvard's CS50 Introduction to Programming with Python.
+- Successfully completed HarvardX: CS50's Introduction to Programming with Python.
 - Continuing to apply Python skills in various projects and challenges.
 
 ### Data Science and Machine Learning

@@ -20,8 +20,7 @@
 ## Learning Journeys
 
 ### Arduino Programming Journey
-🚀 Ongoing exploration of Arduino programming and electronics:
-- [My Arduino Journey](https://github.com/iZusi/My_Arduino_Journey)
+🚀 Ongoing exploration of Arduino programming and electronics: [My Arduino Journey](https://github.com/iZusi/My_Arduino_Journey)
 
 ### CS50 Python Completion
 - Successfully completed HarvardX: CS50's Introduction to Programming with Python.

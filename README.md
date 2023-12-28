@@ -15,7 +15,6 @@
 - [ ] Complete HarvardX CS109x: Introduction to Data Science with Python.
 - [ ] Master fundamental skills in data analysis, visualization, and manipulation.
 - [ ] Dive into machine learning to harness data for smart decision-making.
-- [ ] Complete CS50's Introduction to Computer Science.
 
 ## Learning Journeys
 

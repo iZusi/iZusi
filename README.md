@@ -1,6 +1,6 @@
 ## About Me
 
-- 👋 Hi, I’m Iyke Omozusi (@iZusi)
+- 👋 Hi, I’m Ikponmwosa "Iyke" Omozusi (@iZusi)
 - 👀 I’m interested in C++ & Python programming for Robotics & A.I.
 
 ## Projects and Tasks

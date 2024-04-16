@@ -1,7 +1,7 @@
 ## About Me
 
-- 👋 Hi, I’m Ikponmwosa "Iyke" Omozusi (@iZusi)
-- 👀 I’m interested in C++ & Python programming for Robotics & A.I.
+- 👋 Hi, I’m Ikponmwosa "Iyke/IK" Omozusi (@iZusi)
+- 👀 I’m interested in C++ & Python programming for Robotics & Machine Learning.
 
 ## Projects and Tasks
 
@@ -12,7 +12,6 @@
 - ✅ HarvardX: CS50's Introduction to Programming with Python
 
 ### Current Learning Goals
-- [ ] Complete HarvardX CS109x: Introduction to Data Science with Python.
 - [ ] Master fundamental skills in data analysis, visualization, and manipulation.
 - [ ] Dive into machine learning to harness data for smart decision-making.
 

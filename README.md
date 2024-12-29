@@ -1,6 +1,6 @@
 ## About Me
 
-- 👋 Hi, I’m Ikponmwosa "Iyke/IK" Omozusi (@iZusi)
+- 👋 Hi, I’m Ikponmwosa "IK" Omozusi (@iZusi)
 - 👀 I’m interested in C++ & Python programming for Robotics & Machine Learning.
 
 ## Projects and Tasks
@@ -31,7 +31,7 @@
 
 ## 🚀 Connect with Me
 <p align="left">
-  <a href="mailto:iyke.zusi@gmail.com">
+  <a href="mailto:the.ik.zusi@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/iomozusi/">
